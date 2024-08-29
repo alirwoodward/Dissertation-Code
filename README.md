@@ -1,7 +1,7 @@
 # Dissertation-Code
 
-SM1- dataConversions.ipynb
+SM1- data_conversions.ipynb
 
 SM2- Syncing.ipynb
 
-SM3- visuals.ipynb
+SM3- Visuals.ipynb
